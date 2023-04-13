@@ -1,0 +1,4 @@
+[package]
+name = "Leetcode No.4"
+verion = "1.0"
+edition = "2022"
